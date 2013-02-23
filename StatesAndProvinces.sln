@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatesAndProvinces", "StatesAndProvinces\StatesAndProvinces.csproj", "{719450DB-D7B7-4334-834E-7FBC94B49D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatesAndProvinces.UnitTests", "StatesAndProvinces.UnitTests\StatesAndProvinces.UnitTests.csproj", "{8ED475F3-D5FF-41EB-B735-433AED42CF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{719450DB-D7B7-4334-834E-7FBC94B49D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719450DB-D7B7-4334-834E-7FBC94B49D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719450DB-D7B7-4334-834E-7FBC94B49D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719450DB-D7B7-4334-834E-7FBC94B49D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED475F3-D5FF-41EB-B735-433AED42CF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED475F3-D5FF-41EB-B735-433AED42CF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED475F3-D5FF-41EB-B735-433AED42CF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED475F3-D5FF-41EB-B735-433AED42CF40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

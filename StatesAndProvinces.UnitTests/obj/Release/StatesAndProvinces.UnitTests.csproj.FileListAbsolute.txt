@@ -1,0 +1,14 @@
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.UnitTests.dll
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.UnitTests.pdb
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.dll
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.pdb
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Release\StatesAndProvinces.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Release\StatesAndProvinces.UnitTests.dll
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Release\StatesAndProvinces.UnitTests.pdb
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.UnitTests.dll
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.UnitTests.pdb
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.dll
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Release\StatesAndProvinces.pdb
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Release\StatesAndProvinces.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Release\StatesAndProvinces.UnitTests.dll
+C:\Users\Paul\Documents\GitHub\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Release\StatesAndProvinces.UnitTests.pdb

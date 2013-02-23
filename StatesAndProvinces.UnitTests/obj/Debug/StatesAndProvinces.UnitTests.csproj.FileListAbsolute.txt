@@ -1,0 +1,7 @@
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.csprojResolveAssemblyReference.cache
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.UnitTests.dll
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.UnitTests.pdb
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.dll
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.pdb
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.dll
+c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.pdb
