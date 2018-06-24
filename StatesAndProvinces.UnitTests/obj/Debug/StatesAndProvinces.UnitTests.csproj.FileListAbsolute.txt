@@ -5,3 +5,13 @@ c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAnd
 c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.pdb
 c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.dll
 c:\users\paul\documents\visual studio 2012\Projects\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.pdb
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.UnitTests.dll
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.UnitTests.pdb
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.dll
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\bin\Debug\StatesAndProvinces.pdb
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.csprojAssemblyReference.cache
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.csproj.CopyComplete
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.dll
+C:\Users\paul\Source\Repos\StatesAndProvinces\StatesAndProvinces.UnitTests\obj\Debug\StatesAndProvinces.UnitTests.pdb
